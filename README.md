@@ -1,1 +1,3 @@
-"Ph�n t�ch d? li?u d?a tr�n data do m?t tr?n t? qu?c VN cung c?p" 
+# Phân tích dữ liệu dựa trên data mặt trận tổ quốc VN cung cấp 
+
+### Đây là bài tập để tôi luyện tập cho môn học của mình
